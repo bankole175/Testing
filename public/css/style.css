@@ -1,0 +1,146 @@
+body {
+    overflow-x: hidden;
+}
+
+.logo img {
+    width: 150px;
+}
+
+.banner {
+    display: flex;
+    justify-content: center;
+    background: url('../../assets/img/bkg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+}
+
+.sub-heading {
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 40px;
+}
+.bold {
+    font-weight: bold;
+}
+.sub-heading1 {
+    text-align: center;
+    margin-top: 4px;
+    font-weight: bold;
+    font-size: small;
+    color: rgb(56, 56, 56);
+    padding-bottom: 7px;
+    border-bottom: 2px solid #b9b8b8;
+
+}
+.main-div {
+    display: flex;
+    justify-content: center;
+}
+.map {
+    width: 350px;
+    height: 250px;
+    border: 5px solid #b9b8b8;
+    background: white;
+}
+.map-img {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.map-img img {
+    width: 150px;
+}
+.map-button {
+    text-align: center;
+}
+.btn-map {
+    background-color: #634a33;
+    margin-right: 4px;
+    margin-left: 4px;
+    border: none;
+    color: #ffffff;
+}
+
+.sub-heading2 {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.sub-heading2 span {
+    color: #82bf4b;
+}
+
+.advert {
+    margin: 5px;
+    padding: 5px;
+    text-transform: uppercase;
+    font-size: 14px;
+    background-color: #ebebeb;
+}
+
+.pos-advert .line {
+    border-bottom: 2px solid #82bf4b;
+    color: #ff9d1f;
+    text-align: center;
+    padding: 5px;
+    white-space: nowrap;
+}
+.pos-advert span {
+    color: black;
+}
+
+.transfer {
+    width: 180px;
+    height: 130px;
+    background: white;
+    box-shadow: 2px 2px white;
+    text-align: center;
+    border: 1px solid black;
+}
+.transfer1 {
+    width: 250px;
+    height: 130px;
+    background-color: #ffffff;
+    color: #634a33;
+    padding: 10px;
+    font-size: 13px;
+    border: 1px solid black;
+}
+
+.market {
+    background: url('../../assets/img/home-section-3-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 390px;
+}
+
+.btn-advert {
+    background-color: #ff9d1f;
+    border: 0;
+}
+.need-help {
+    border-left: 2px solid #ffffff;
+    border-right: 2px solid #ffffff;
+}
+.get-listed img {
+    width: 100px;
+}
+.partnership img {
+    width: 100px;
+}
+
+.copyright {
+    background-color: #634a33;
+}
+.icons {
+    background-color: #634a33;
+}
+.icons img {
+    width: 100px;
+}
+.last-footer {
+    background-color: #4d3927;
+    height: 30px;
+}
